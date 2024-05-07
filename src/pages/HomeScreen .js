@@ -36,7 +36,7 @@ function HomeScreen({ navigation }) {
         </TouchableOpacity>
 
         <TouchableOpacity style={styles.botaoTres} onPress={() => {}}>
-          <Text style={styles.tituloBotoes}>Preciso de{'\n'}ajuda</Text>
+          <Text style={styles.tituloBotoes}>Preciso dee{'\n'}ajuda</Text>
           <Image
             source={require('../assets/icons/fever.png')}
             style={styles.formatacaoEmoji}
